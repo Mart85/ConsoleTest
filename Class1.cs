@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace GitConsoleTest
 {
-    class Program
+    class Class1
     {
-        static void Main(string[] args)
-        {
-            throw new ArgumentException("Test project FEATURE");
-        }
     }
 }

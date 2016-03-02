@@ -10,7 +10,7 @@ namespace GitConsoleTest
     {
         static void Main(string[] args)
         {
-            throw new ArgumentException("");
+            throw new ArgumentException("Test project");
         }
     }
 }
